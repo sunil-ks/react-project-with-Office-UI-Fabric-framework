@@ -9,6 +9,5 @@ const Footer = () => (
       <Button className="approve"><i className="fa fa-check"></i>  APPROVE FILE</Button>
       <Button className="reject"><i className="fa fa-times"></i>  REJECT FILE</Button>
   </div>
-  
 )
 export default Footer
