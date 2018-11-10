@@ -35,7 +35,7 @@ class Content extends React.Component {
 Content.defaultProps = {
   maxBreadcrumbs: 3,
   breadcrumbs: [
-    {text: 'File 1 of Doc 1', 'key': 'doc 1', href : '/doc1file1'},
+    {text: 'File 1 of Doc 1', 'key': 'doc 1', href : '<App />'},
     {text: 'File 2 of Doc 1', 'key': 'doc 2', href : '/doc1file2'},
     {text: 'File 3 of Doc 1', 'key': 'doc 3', href : '/doc1file3'},
     {text: 'File 4 of Doc 1', 'key': 'doc 4', href : '/doc1file4'},
