@@ -1,6 +1,4 @@
-# Vela - ACCEPT / REJECT Demo project with Office UI Fabric
-
-A demo project done as per the requirement sent in the mail.
+# React Demo project with Office UI Fabric Framework
 
 Steps to run this demo project :
 
